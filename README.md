@@ -62,6 +62,6 @@ Once your Docker environment is up, you can test Kafka directly from the Kafka c
 
 ---
 
-## License
+## 📝 License
 
-MIT © Vinayak Gawade
+This project is licensed under the MIT License © Vinayak Gawade.
